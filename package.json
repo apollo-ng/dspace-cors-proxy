@@ -1,0 +1,16 @@
+{
+  "name": "dspace-cors-proxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "dependencies": {
+    "cors-anywhere": "~0.1.7",
+    "nconf": "~0.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense"
+}
